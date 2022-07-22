@@ -1,0 +1,12 @@
+# files automatically created by Jupyter Notebook
+.ipynb_checkpoints/
+
+# files with data
+russian_names.txt
+hw_author_quotes.txt
+
+# temporary files
+*.bak
+
+# other unused files
+vocab.py
