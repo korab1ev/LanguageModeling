@@ -4,9 +4,11 @@
 # files with data
 russian_names.txt
 hw_author_quotes.txt
+tokenized_quotes.txt
 
 # temporary files
 *.bak
+bpe_rules
 
 # other unused files
 vocab.py
