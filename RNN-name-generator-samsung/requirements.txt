@@ -1,5 +1,6 @@
 scikit-learn
 spacy-udpipe
+subword-nmt==0.3.8
 pymorphy2
 torch>=1.2
 matplotlib
