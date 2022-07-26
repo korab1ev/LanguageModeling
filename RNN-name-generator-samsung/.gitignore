@@ -9,6 +9,3 @@ tokenized_quotes.txt
 # temporary files
 *.bak
 bpe_rules
-
-# other unused files
-vocab.py
